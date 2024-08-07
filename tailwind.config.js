@@ -3,7 +3,7 @@ module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   mode: "jit",
   theme: {
-    extend: {
+    extend: {  
       colors: {
         "deep-blue": "#010026",
         blue: "#2CBCE9",

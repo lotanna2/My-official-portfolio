@@ -13,7 +13,7 @@ const Link = ({ page, selectedPage, setSelectedPage }) => {
       onClick={(e) => setSelectedPage(lowerCasePage)} // e - means you're targetting the event
     >
       {page}
-    </AnchorLink>
+    </AnchorLink> 
   );
 };
 
