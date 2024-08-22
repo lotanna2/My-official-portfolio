@@ -85,6 +85,13 @@ const MySkills = () => {
             Feb 2022 - Sept 2022
             
           </p>
+           <p className="mt-5">
+           
+            Corniehealth Technologies Ltd <br />
+            Software Development Intern <br />
+            Aug 2024 - present
+            
+          </p>
         </motion.div>
 
         {/* TECHNOLOGIES */}
