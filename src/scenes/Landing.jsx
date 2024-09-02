@@ -34,9 +34,10 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
+            <br>
           Welcome to my portfolio, explore a collection of my latest projects, where I've utilized a diverse set of frameworks to bring these ideas to life. 
             Each project reflects my commitment to leveraging cutting-edge technologies to achieve outstanding results
-
+            
           </p>
         </motion.div>
 
